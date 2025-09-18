@@ -2,6 +2,8 @@
 
 A mobile app that calculates your earnings in real-time from any start date and time.
 
+<img width="421" height="562" alt="image" src="https://github.com/user-attachments/assets/efd7f7ed-fdf4-48dc-9640-ed00b91ddf69" />
+
 ## Features ✨
 
 - **Cross-Platform**: Works on both iOS and Android
@@ -18,6 +20,8 @@ A mobile app that calculates your earnings in real-time from any start date and 
 3. **Enter Start Time** in 24-hour format (e.g., 09:30 or 14:45)
 4. **Tap "Start Tracking"** to begin calculating earnings
 5. **Watch Your Earnings Grow** in real-time from your selected start moment
+
+<img width="464" height="632" alt="image" src="https://github.com/user-attachments/assets/6a132589-187b-401c-9060-5c60b8a91110" />
 
 ## Technical Details 🛠️
 
